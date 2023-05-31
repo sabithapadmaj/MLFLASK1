@@ -34,6 +34,10 @@ Run the code
 
 Click on the Running on http://127.0.0.1:5000 " to see the output
 
+Step 9:
+
+Create a folder called
+
 
 
 
