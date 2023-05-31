@@ -1,0 +1,41 @@
+
+Step 1: Create a folder and go that particular folder in the command prompt
+
+Step 2: D:\AI_FDP\MLFLASK> pip install virtualenv
+
+Step 3: Create a virtailenv
+ D:\AI_FDP\MLFLASK> virtualenv flaskml1
+
+Step 4: Activate
+
+D:\AI_FDP\MLFLASK>flaskml1\scripts\activate
+(flaskml1) D:\AI_FDP\MLFLASK>
+
+Step 5: install flask
+
+(flaskml1) D:\AI_FDP\MLFLASK>pip install flask
+
+Step 6: open the code in VSCode
+
+(flaskml1) D:\AI_FDP\MLFLASK>code
+
+Step 7: Open MLFLASK folder in VSCode
+File-->OPenFolder
+
+Step 8:
+Create a new Python file (app.py)
+
+Step 9: Open the terminal in VSCode and activate 
+
+'flaskml1\scripts\activate'
+
+Step 9:
+Run the code
+
+Click on the Running on http://127.0.0.1:5000 " to see the output
+
+
+
+
+
+
